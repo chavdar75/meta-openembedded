@@ -13,7 +13,7 @@ SRC_URI = "git://github.com/tvheadend/tvheadend.git \
            file://0001-allocate-space-for-buf-on-heap.patch \
            "
 
-SRCREV = "fda89e85e0b6ae796d8a09e178d3937aa7869270"
+SRCREV = "221c29b40b1e53ae09a69d9458442dd4fea665f5"
 PV = "4.3+git${SRCPV}"
 PKGV = "4.3+git${GITPKGV}"
 
